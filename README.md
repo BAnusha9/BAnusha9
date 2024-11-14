@@ -1,4 +1,4 @@
-- 👋 Hi, I’m BAnusha
+- 👋 Hi, I’m Anusha
 - 🌱 I’m currently learning Data Science With Gen AI 
   
 
